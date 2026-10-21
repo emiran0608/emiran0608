@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ## 🎭 뮤지컬 덕후네 집
 
+![뮤지컬 가족](introduce1.jpeg)
+
 우리 가족 4인, 전원 뮤지컬 애호가입니다!
 
 | 구성원 | 뮤지컬 레벨 |
