@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 
 ## 📚 도서관 러버, 10년차
 
+![도서관 가족](introduce2.jpeg)
+
 매달 **100권**을 빌리고 반납하는 도서관의 VIP 고객!
 
 - 📖 10년째 이어온 도서관과의 로맨스
@@ -52,6 +54,8 @@ Here are some ideas to get you started:
 ---
 
 ## ⚖️ 오웍이프(5:2)의 삶
+
+![일과 여유](introduce3.jpeg)
 
 **5일 WORK + 2일 FREE = 나다운 삶**
 
